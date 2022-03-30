@@ -18,7 +18,7 @@ header h1{
 header img{
     width:100px;
     height: 100px;
-    text-align: right;
+    float: right;
 }
 
 nav {
@@ -57,14 +57,14 @@ h2{
 .flex-container {
     display: flexbox;
     flex-direction:row ;
-    background-color: aqua;
+    background-color: cadetblue;
   }
   @media (max-width: 800px) {
     .flex-container {
       flex-direction: column;
     }
 
-
+  }
 
 .flex-child{
     width: 50px; 
@@ -82,28 +82,7 @@ h2{
     margin: 141px 0px;
 }*/
 
-.Project2 {
-    width: 50px; 
-    height: 40px; 
-    margin: 141px 0px;
-  }
-
-
-.project3 img{
-    width: 50px; 
-    height: 40px; 
-    margin: 141px 0px;
-
-}
-.project4 img{
-    width: 50px; 
-    height: 40px;
-    margin: 159.675px 0px;
-}
-
-.project5 img{
-    width: 50px; 
-    height: 40px;
-    margin: 141px 0px;
-}
+  .contactMe{
+    text-align: right;
+    font-size: large;
   }
