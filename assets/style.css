@@ -2,11 +2,25 @@
     box-sizing: border-box;
   }
   
-  body {
+body {
     font-family: Courier sans-serif;
     margin: 0;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
   }
-  
+
+header h1{
+    color: black;
+    text-align: right;
+
+}
+header img{
+    width:100px;
+    height: 100px;
+    text-align: right;
+}
+
 nav {
     display: flex;
     background-color: gainsboro;
@@ -17,5 +31,79 @@ nav a{
     width: 100%;
     margin: 0;
     text-align: center;
+    text-decoration-style: solid;
 }
-  
+
+h2{
+    text-align:right ;
+    font-size: larger;
+    text-decoration:wavy
+
+}
+.aboutMe p{
+    text-align: center;
+    font-size: large;
+    
+}
+/*
+.work{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+}
+*/
+
+.flex-container {
+    display: flexbox;
+    flex-direction:row ;
+    background-color: aqua;
+  }
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+
+
+
+.flex-child{
+    width: 50px; 
+    height: 40px; 
+    margin: 141px 0px;
+
+}
+.flex-child a{
+    flex-wrap:wrap
+}
+/*
+.project2 a{
+    width: 50px;
+    height: 40px; 
+    margin: 141px 0px;
+}*/
+
+.Project2 {
+    width: 50px; 
+    height: 40px; 
+    margin: 141px 0px;
+  }
+
+
+.project3 img{
+    width: 50px; 
+    height: 40px; 
+    margin: 141px 0px;
+
+}
+.project4 img{
+    width: 50px; 
+    height: 40px;
+    margin: 159.675px 0px;
+}
+
+.project5 img{
+    width: 50px; 
+    height: 40px;
+    margin: 141px 0px;
+}
+  }
