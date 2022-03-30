@@ -36,12 +36,14 @@ nav a{
     margin: 0;
     text-align: center;
     text-decoration-style: solid;
+    font-size: larger;
 }
 
-h2{
+h1{
     text-align:right ;
     font-size: larger;
     text-decoration:wavy
+
 
 }
 .aboutMe p{
