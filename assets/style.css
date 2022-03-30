@@ -1,16 +1,21 @@
-.container{
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Courier sans-serif;
+    margin: 0;
+  }
+  
+nav {
     display: flex;
+    background-color: gainsboro;
+  }
+
+nav a{
+    color:black;
+    width: 100%;
+    margin: 0;
+    text-align: center;
 }
-
-.aboutme{
-
-    height: 100px;
-    width: 100px;
-
-}
-
-.work{
-
-    flex-grow: 1;
-
-}
+  
