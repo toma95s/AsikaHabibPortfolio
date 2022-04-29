@@ -1,9 +1,8 @@
 # Asika Habib's Portfolio
 
-This website is to inform employers of Asika Habib's projects. The sections are split by projects, contact, and a paragraph introduction of the candidate. This website is intended to showcase her skillset with HTML and advanced CSS. 
+This website is to inform employers of Asika Habib's projects. The sections are split by projects, contact, and a paragraph introduction of the candidate. This website is intended to showcase her skillset with HTML and advanced CSS. <br>
 
-This portfolio is to also show the gradual improvement she achieved. The purpose is to allow prospective employers to click on each image and be taken to the repositories created for practice and experience. 
-
+This portfolio is to also show the gradual improvement she achieved. The purpose is to allow prospective employers to click on each image and be taken to the repositories created for practice and experience. <br>
 
 <img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple> https://toma95s.github.io/AsikaHabibPortfolio/
 
@@ -28,7 +27,7 @@ This code snippet shows where the navigation starts and the about me section wit
 
 
 <h2>Screenshot</h2>
-![image](https://user-images.githubusercontent.com/101033224/160764739-09ad0032-3801-4c32-8f26-982d659b9dd0.png)
+<img width="546" alt="Screen Shot 2022-04-28 at 9 50 05 PM" src="https://user-images.githubusercontent.com/101033224/165886779-90cd66eb-46da-457f-9886-377d892d4688.png">
 
 
 
